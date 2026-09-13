@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Raul 👋
 
-<!--
-**RaulRodriguexz/RaulRodriguexz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Solutions Engineer** — I build applied-AI and automation systems that remove
+manual work and move real business metrics (revenue, cost), not just demos.
 
-Here are some ideas to get you started:
+- 🔭 Since 2025: freelance AI automations & B2B web solutions across marketing,
+  legal, transport and dental sectors.
+- 🌍 Relocating to **Dublin (Oct 2026)** to build inside Europe's AI hub — the city
+  OpenAI and Anthropic chose for their EU headquarters.
+- 🛠️ Python · LLM APIs · automation (n8n) · React · cloud (Vercel / Cloudflare).
+- 🌐 Portfolio: **https://raulrodrigues.dev**
+- 💼 LinkedIn: https://linkedin.com/in/raulrodriguexz
+- 🗣️ Portuguese (native) · English (studying intensively)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Focus:** business + AI. I turn a company's real pain into a plan, then ship the
+system that fixes it.
