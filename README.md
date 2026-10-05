@@ -1,16 +1,24 @@
-# Hi, I'm Raul 👋
+### Hi, I'm Raul 👋
 
-**AI Solutions Engineer** — I build applied-AI and automation systems that remove
-manual work and move real business metrics (revenue, cost), not just demos.
+**AI Solutions Engineer.** I build applied-AI and automation systems that take repetitive
+work off people's plates — from the first plan to the shipped tool.
 
-- 🔭 Since 2025: freelance AI automations & B2B web solutions across marketing,
-  legal, transport and dental sectors.
-- 🌍 Relocating to **Dublin (Oct 2026)** to build inside Europe's AI hub — the city
-  OpenAI and Anthropic chose for their EU headquarters.
-- 🛠️ Python · LLM APIs · automation (n8n) · React · cloud (Vercel / Cloudflare).
-- 🌐 Portfolio: **https://raulrodrigues.dev**
-- 💼 LinkedIn: https://linkedin.com/in/raulrodriguexz
-- 🗣️ Portuguese (native) · English (studying intensively)
+- Since 2025: freelance AI automation and B2B web projects for businesses in marketing,
+  legal, transport and dental.
+- Relocating to Dublin in October 2026. Open to AI / automation roles and freelance.
+- Stack: Python · LLM APIs (Claude, OpenAI) · n8n · React · Vercel / Cloudflare.
 
-**Focus:** business + AI. I turn a company's real pain into a plan, then ship the
-system that fixes it.
+**Recent project**
+
+- **Ticket Triage** — a support-ticket tool: one model call classifies a ticket, rates its
+  priority by real impact (a caps-lock "URGENT" doesn't change it), summarizes it in one
+  line, and drafts a first reply. Ships with an evaluation set, prompt-injection guardrails,
+  and a Haiku/Sonnet router to cut cost. [repo] · [live demo]
+
+**Contact**
+
+- Portfolio: https://raulrodrigues.dev
+- LinkedIn: https://linkedin.com/in/raulrodriguexz
+- Email: raulrodrigues.mldev@gmail.com
+
+Languages: Portuguese (native) · English (improving).
